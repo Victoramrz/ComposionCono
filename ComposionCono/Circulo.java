@@ -10,6 +10,7 @@ package ETS.ut4.ComposionCono;
 public class Circulo {
     private float x, y;
     private float radio;
+    //prueba
     public Circulo (float cX, float cY, float r) { // constructor
     this.x = cX;
     this.y = cY;
